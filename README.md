@@ -19,7 +19,7 @@ En la logística, enterarse de que un contenedor viajó semi-vacío cuando ya ll
 
 En empresas de gran envergadura, el desafío no es solo procesar datos, sino asegurar que **personas con distintos niveles de conocimiento y capacidades** puedan interpretarlos. El software de BI a menudo falla porque es demasiado rígido para el usuario o no lo entiende o está acostumbrado a la flexibilidad total de las planillas de cálculo, aunque su armado individual insuma muchas horas. 
 
-Esta brecha técnica genera silos: solo unos pocos "expertos" usan el dashboard, mientras el resto sigue operando con procesos manuales y descentralizados.
+Esta brecha técnica genera fracturas: solo unos pocos "expertos" usan el dashboard, mientras el resto sigue operando con procesos manuales y descentralizados.
 
 ### **La Solución**: Democratización mediante Parámetros de Campo
 
