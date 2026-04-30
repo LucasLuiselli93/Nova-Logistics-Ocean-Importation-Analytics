@@ -21,7 +21,7 @@ En empresas de gran envergadura, el desafío no es solo procesar datos, sino ase
 
 Esta brecha técnica genera silos: solo unos pocos "expertos" usan el dashboard, mientras el resto sigue operando con procesos manuales y descentralizados.
 
-### La Solución: Democratización mediante Parámetros de Campo
+### **La Solución**: Democratización mediante Parámetros de Campo
 
 Este sistema utiliza un recurso muy olvidado de Power BI: los **Parámetros de Campo** para construir una matriz de consulta dinámica que actúa como un puente cultural.
 
