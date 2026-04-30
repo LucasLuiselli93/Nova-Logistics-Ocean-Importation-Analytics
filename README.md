@@ -10,12 +10,14 @@
 ## 📌 Escenario de Negocio
 El departamento de logística global de Nova Logistics requería una herramienta para medir los arribos de importación marítima (embarques) a partir de mediciones estandard en la industria: cantidad de carga (HBL), CBM (volumen), WT (Weight) y sus derivados operativos y comerciales. En paralelo se buscaba obsevar la eficiencia en el uso de contenedores. Un contenedor se optimiza tanto por CBM, es decir m2 de la carga y por otro lado por Carga . El objetivo es identificar desviaciones en la carga y optimizar la rentabilidad de cada envío mediante el monitoreo de KPIs de cumplimiento con un benchmark objetivo del 75%.
 
-## 📌 El Problema 1 : Reacción vs. Previsión
-En logística, enterarse de que un contenedor viajó semi-vacío cuando ya llegó a destino es un error costoso. Tradicionalmente, los reportes se centran en la carga ya arribada, lo que deja a la empresa sin margen de maniobra.
+## 📌 El Problema 1: De la Reacción Forense a la Previsión Estratégica
 
-**La solución:** 
+En el sector logístico, la mayoría de los reportes son "forenses": analizan la carga una vez arribada, cuando el costo por capacidad ociosa (transportar "aire") ya es irreversible. Esta falta de visibilidad genera una asimetría de información que deja a la dirección sin margen de maniobra operativa.
 
-* Este sistema cambia el paradigma hacia la **previsión**. Analiza las cotizaciones realizadas y vigentes, permitiendo al equipo de ventas tomar accion.
+### La Solución: Monitoreo Preventivo de Cotizaciones
+Este sistema desplaza el enfoque hacia la **previsión**. Al analizar las cotizaciones realizadas y vigentes en tiempo real, el equipo de ventas y operaciones puede identificar contenedores subutilizados **antes del zarpe**, permitiendo acciones correctivas que impactan directamente en el margen de contribución.
+
+---
 
 ## 📌 Problema 2: El Abismo Técnico en Organizaciones Grandes
 
@@ -23,9 +25,9 @@ En empresas de gran envergadura, el desafío no es solo procesar datos, sino ase
 
 Esta brecha técnica genera fracturas: solo unos pocos "expertos" usan el dashboard, mientras el resto sigue operando con procesos manuales y descentralizados.
 
-**La Solución** 
+### La Solución: Democratización con parámetos de campos
 
-* Este sistema utiliza un recurso muy olvidado de Power BI: los **Parámetros de Campo** para construir una matriz de consulta dinámica que actúa como un puente cultural.
+* Usar **Parámetros de Campo** para construir una matriz de consulta dinámica que actúa como un puente cultural.
 
 *   **Interfaz Familiar:** Al permitir que el usuario elija sus propias filas, columnas y métricas, el dashboard se comporta como una **Tabla Dinámica inteligente**. Esto nos permite aprovechar el conocimiento previo que todos los usuarios tienen sobre hojas de cálculo, eliminando la curva de aprendizaje.
 *   **Eliminación de la Rigidez:** Ya no existe un "único reporte". El usuario tiene la autonomía para "armar su propia aventura" analítica, lo que garantiza una adopción masiva de la herramienta y una visión unificada de la verdad, independientemente de la capacidad técnica de quien la use.
