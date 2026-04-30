@@ -25,12 +25,12 @@ El núcleo de este proyecto es un modelo de datos complejo que integra múltiple
 ## 🛠️ Stack Tecnológico
 *   **Power BI:** Modelado y visualización avanzada.
 *   **DAX:** Implementación de lógica para medidores (Gauges) de performance y parámetros dinámicos de selección.
-*   **SQL:** Procesamiento de la capa de datos para asegurar la integridad de los hechos `HIM` y `HIT`.
+*   **SQL:** Procesamiento de la capa de datos.
 
 ## 🚀 Desafíos Técnicos Resueltos
 1.  **Arquitectura Multi-Fact:** Diseño de un modelo capaz de relacionar tres tablas de hechos distintas sin generar ambigüedad en los filtros cruzados.
-2.  **Selección Dinámica de Dimensiones:** Implementación de parámetros de campo que permiten al usuario cambiar dinámicamente las filas y columnas de la matriz de resumen (Año, Mes, País, Cliente).
-3.  **Visualización de Performance (Gauges):** Configuración de indicadores visuales condicionales basados en el cumplimiento de optimización de CBM y HBL por tipo de contenedor (20', 40', 40'HC).
+2.  **Selección Dinámica de Dimensiones:** Implementación de *parámetros de campo* que permiten al usuario cambiar dinámicamente las filas y columnas de la matriz de resumen. Es decir cada usuario elige su propia aventura.
+3.  **Visualización de Performance:** Configuración de indicadores visuales condicionales basados en el cumplimiento de optimización de CBM y HBL por tipo de contenedor (20', 40', 40'HC).
 
 ## 💡 Impacto
 *   **Benchmarking Temporal:** Visibilidad clara de la evolución del volumen de HBL de 2024 a 2026.
