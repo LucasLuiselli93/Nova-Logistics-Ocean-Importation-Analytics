@@ -11,9 +11,11 @@
 El departamento de logística global de Nova Logistics requería una herramienta para medir los arribos de importación marítima (embarques) a partir de mediciones estandard en la industria: cantidad de carga (HBL), CBM (volumen), WT (Weight) y sus derivados operativos y comerciales. En paralelo se buscaba obsevar la eficiencia en el uso de contenedores. Un contenedor se optimiza tanto por CBM, es decir m2 de la carga y por otro lado por Carga . El objetivo es identificar desviaciones en la carga y optimizar la rentabilidad de cada envío mediante el monitoreo de KPIs de cumplimiento con un benchmark objetivo del 75%.
 
 ## 📌 El Problema 1 : Reacción vs. Previsión
-En la logística, enterarse de que un contenedor viajó semi-vacío cuando ya llegó a destino es un error costoso. Tradicionalmente, los reportes se centran en la carga ya arribada, lo que deja a la empresa sin margen de maniobra.
+En logística, enterarse de que un contenedor viajó semi-vacío cuando ya llegó a destino es un error costoso. Tradicionalmente, los reportes se centran en la carga ya arribada, lo que deja a la empresa sin margen de maniobra.
 
-**La solución:** Este sistema cambia el paradigma hacia la **previsión**. Analiza las cotizaciones realizadas y vigentes, permitiendo al equipo de ventas tomar accion.
+**La solución:** 
+
+* Este sistema cambia el paradigma hacia la **previsión**. Analiza las cotizaciones realizadas y vigentes, permitiendo al equipo de ventas tomar accion.
 
 ## 📌 Problema 2: El Abismo Técnico en Organizaciones Grandes
 
@@ -21,9 +23,9 @@ En empresas de gran envergadura, el desafío no es solo procesar datos, sino ase
 
 Esta brecha técnica genera fracturas: solo unos pocos "expertos" usan el dashboard, mientras el resto sigue operando con procesos manuales y descentralizados.
 
-**La Solución**: Democratización mediante Parámetros de Campo
+**La Solución** 
 
-Este sistema utiliza un recurso muy olvidado de Power BI: los **Parámetros de Campo** para construir una matriz de consulta dinámica que actúa como un puente cultural.
+* Este sistema utiliza un recurso muy olvidado de Power BI: los **Parámetros de Campo** para construir una matriz de consulta dinámica que actúa como un puente cultural.
 
 *   **Interfaz Familiar:** Al permitir que el usuario elija sus propias filas, columnas y métricas, el dashboard se comporta como una **Tabla Dinámica inteligente**. Esto nos permite aprovechar el conocimiento previo que todos los usuarios tienen sobre hojas de cálculo, eliminando la curva de aprendizaje.
 *   **Eliminación de la Rigidez:** Ya no existe un "único reporte". El usuario tiene la autonomía para "armar su propia aventura" analítica, lo que garantiza una adopción masiva de la herramienta y una visión unificada de la verdad, independientemente de la capacidad técnica de quien la use.
