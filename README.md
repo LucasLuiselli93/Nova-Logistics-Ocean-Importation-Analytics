@@ -2,10 +2,10 @@
 
 ## 📊 Visualización de Paneles
 ### Dashboard de Optimización (CBM & HBL)
-![Optimización Operativa](assets/dashboard_opt.png)
+![Optimización Operativa](assets/ESTADISTICO00.png)
 
 ### Resumen de Importación Oceánica (Comparativa YOY)
-![Resumen General](assets/dashboard_sum.png)
+![Resumen General](assets/ESTADISTICO01.png)
 
 ## 📌 Escenario de Negocio
 El departamento de logística global de Nova Logistics requería una herramienta para medir la eficiencia en el uso de contenedores (CBM) y la gestión documental (HBL). El objetivo es identificar desviaciones en la carga y optimizar la rentabilidad de cada envío mediante el monitoreo de KPIs de cumplimiento con un benchmark objetivo del 75%.
@@ -13,7 +13,7 @@ El departamento de logística global de Nova Logistics requería una herramienta
 ## 🏗️ Arquitectura del Modelo Semántico
 El núcleo de este proyecto es un modelo de datos complejo que integra múltiples procesos de negocio mediante tablas de hechos vinculadas a dimensiones compartidas.
 
-![Modelo Semántico](assets/model.png)
+![Modelo Semántico](assets/ESTADISTICO02.png)
 
 *   **Granularidad:** El modelo opera a nivel de Operación / Embarque (Operation / Shipment).
 *   **Tablas de Hechos:** 
