@@ -65,3 +65,6 @@ El núcleo de este proyecto es un modelo de datos complejo que integra múltiple
 * **Protección Proactiva de Márgenes**: Reducción de sobrecostos operativos mediante la detección temprana de rutas y agentes con una ocupación inferior al 75%. Esta capacidad de previsión permite ejecutar acciones correctivas en la fase de pre-embarque, impactando directamente en la rentabilidad del negocio.
 
 * **Sincronización Operativa Global**: La arquitectura optimizada redujo la latencia en la consulta de datos distribuidos, transformando un proceso de reporte manual de tres días en un flujo de información automatizado y en tiempo real.
+
+---
+*Nota: Este repositorio documenta la arquitectura y desarrollo de un proyecto real implementado en producción. Para cumplir con las políticas de privacidad y acuerdos de confidencialidad (NDA), todos los datos financieros, volúmenes operativos y nombres de entidades han sido estrictamente alterados y anonimizados.*
